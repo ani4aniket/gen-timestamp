@@ -1,4 +1,5 @@
-Generate timestamp [![Build Status](https://travis-ci.org/ani4aniket/gen-timestamp.svg?branch=master)](https://travis-ci.org/ani4aniket/gen-timestamp)
+Generate timestamp
+[![Build Status](https://travis-ci.org/ani4aniket/gen-timestamp.svg?branch=master)](https://travis-ci.org/ani4aniket/gen-timestamp) [![Coverage Status](https://coveralls.io/repos/github/ani4aniket/gen-timestamp/badge.svg)](https://coveralls.io/github/ani4aniket/gen-timestamp)
 =========
 
 A small library that generates current timestamp.
