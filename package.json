@@ -1,5 +1,5 @@
 {
-  "name": "@ani4aniket/gen-timestamp",
+  "name": "gen-timestamp",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "engines": {
     "node": ">=4.2.4"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Aniket Kumar <aniketkumar049@gmail.com> (https://www.ianiket.me)",
   "license": "ISC",
   "devDependencies": {
