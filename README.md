@@ -1,4 +1,4 @@
-Generate timestamp
+Generate timestamp [![Build Status](https://travis-ci.org/ani4aniket/gen-timestamp.svg?branch=master)](https://travis-ci.org/ani4aniket/gen-timestamp)
 =========
 
 A small library that generates current timestamp.
