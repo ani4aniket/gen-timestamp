@@ -1,6 +1,6 @@
 {
-  "name": "gen-timestamp",
-  "version": "1.0.0",
+  "name": "@ani4aniket/gen-timestamp",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
