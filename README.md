@@ -12,7 +12,7 @@ A small library that generates current timestamp.
 
     var genTimestamp = require("gen-timestamp");
 
-    var formattedNum = genTimestamp();
+    var timestamp = genTimestamp();
   
   
   Output should be the current timestamp.
