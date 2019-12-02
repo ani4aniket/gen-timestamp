@@ -1,5 +1,5 @@
 Generate timestamp
-[![Build Status](https://travis-ci.org/ani4aniket/gen-timestamp.svg?branch=master)](https://travis-ci.org/ani4aniket/gen-timestamp) [![Coverage Status](https://coveralls.io/repos/github/ani4aniket/gen-timestamp/badge.svg)](https://coveralls.io/github/ani4aniket/gen-timestamp)
+[![Build Status](https://travis-ci.org/ani4aniket/gen-timestamp.svg?branch=master)](https://travis-ci.org/ani4aniket/gen-timestamp) [![Coverage Status](https://coveralls.io/repos/github/ani4aniket/gen-timestamp/badge.svg)](https://coveralls.io/github/ani4aniket/gen-timestamp) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/80e90e1fd8ce47d9bbdfab31b803dfc7)](https://www.codacy.com/manual/ani4aniket/gen-timestamp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ani4aniket/gen-timestamp&amp;utm_campaign=Badge_Grade)
 =========
 
 A small library that generates current timestamp.
